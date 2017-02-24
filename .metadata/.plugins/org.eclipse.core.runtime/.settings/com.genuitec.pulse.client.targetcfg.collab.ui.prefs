@@ -1,0 +1,3 @@
+com.genuitec.pulse.targetcfg.notify.dashboard.skip=true
+com.genuitec.pulse.targetcfg.notify.dashboard.subsequent.launch=true
+eclipse.preferences.version=1

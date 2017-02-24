@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+	<dialog className="cn.edu.aust.view.DialogBackground" x="0" y="0" w="0" h="0"/>
+	<dialog className="cn.edu.aust.view.DialogDataBase" x="40" y="32" w="334" h="281"/>
+	<dialog className="cn.edu.aust.view.DialogDisk" x="40" y="333" w="334" h="281"/>
+	<dialog className="cn.edu.aust.view.DialogGame" x="419" y="32" w="326" h="582"/>
+	<dialog className="cn.edu.aust.view.DialogButton" x="788" y="32" w="334" h="124"/>
+	<dialog className="cn.edu.aust.view.DialogNext" x="788" y="188" w="176" h="148"/>
+	<dialog className="cn.edu.aust.view.DialogLevel" x="964" y="188" w="158" h="148"/>
+	<dialog className="cn.edu.aust.view.DialogPoint" x="788" y="368" w="334" h="160"/>
+	<dialog className="cn.edu.aust.view.DialogAbout" x="788" y="560" w="334" h="54"/>
+</game>
