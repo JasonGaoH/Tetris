@@ -6,4 +6,4 @@
 - 游戏设计采用MVC的三层来架构，运用面向对象的思想来构建代码，是的代码扩展性比较强，并且这样取出一些冗余代码
 -  使用jdbc和对象流来保存用户的游戏数据
 
-![image](http://ohazfcl3s.bkt.clouddn.com/Tetris.gif)
+![image](https://raw.githubusercontent.com/JasonGaoH/Tetris/master/gif/Tetris.gif)
